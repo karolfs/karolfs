@@ -10,7 +10,7 @@
 ![Karol GitHub stats](https://github-readme-stats.vercel.app/api?username=karolfs&show_icons=true&theme=radical)
 
 
-## Pretendo adquirir mais conhecimentos, e estar sempre em contante evolução no ramo da tecnologia.
+### Pretendo adquirir mais conhecimentos, e estar sempre em contante evolução no ramo da tecnologia.
 
 <br>
 
